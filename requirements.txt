@@ -1,0 +1,15 @@
+# PyTorch (CUDA 12.4) — install dengan:
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+
+# Hugging Face stack
+diffusers==0.38.0
+transformers==5.12.0
+accelerate==1.14.0
+peft==0.19.1
+datasets==5.0.0
+safetensors==0.8.0
+
+# Lainnya
+Pillow==12.2.0

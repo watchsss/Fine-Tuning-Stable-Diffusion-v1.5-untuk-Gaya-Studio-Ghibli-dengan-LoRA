@@ -1,0 +1,12 @@
+# Virtual environment (jangan di-submit, ukurannya besar)
+venv/
+
+# Cache model Hugging Face
+.cache/
+
+# Checkpoint training perantara (besar; cukup LoRA final yang dikumpulkan)
+ghibli-lora/checkpoint-*/
+
+# Python
+__pycache__/
+*.pyc
