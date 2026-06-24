@@ -7,6 +7,13 @@ venv/
 # Checkpoint training perantara (besar; cukup LoRA final yang dikumpulkan)
 ghibli-lora/checkpoint-*/
 
+# File lokal (tidak perlu masuk repo)
+ppt_prompt.md
+output.png
+ghibli_output.png
+compare_base.png
+compare_lora.png
+
 # Python
 __pycache__/
 *.pyc

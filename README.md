@@ -197,7 +197,7 @@ FinetuningAI/
 ├── compare_ghibli.py            # Evaluasi base vs fine-tuned
 ├── ghibli-lora/
 │   └── pytorch_lora_weights.safetensors   # Bobot LoRA hasil training
-└── comparison*.png              # Contoh hasil perbandingan
+└── comparison*.png              # Hasil perbandingan base vs fine-tuned
 ```
 
 ## Catatan
